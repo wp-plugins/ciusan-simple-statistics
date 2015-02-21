@@ -26,8 +26,8 @@ Show simple statistics.
 
 == Installation ==
 
-1. Upload `ciusan-simple-statistics` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the `Plugins` menu in WordPress.
+1. Upload 'ciusan-simple-statistics' folder to the '/wp-content/plugins/' directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to widget then drag and drop the ` Ciusan Simple Statistics` widget.
 
 == Screenshots ==
